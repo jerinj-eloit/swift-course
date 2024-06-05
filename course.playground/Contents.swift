@@ -35,3 +35,5 @@ var ages: Array<Double> = [23,526,14,6347,242, 242, 242, 242, 242]
 
 var setAges = Set(ages)
 
+
+print(setAges)
